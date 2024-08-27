@@ -3,5 +3,5 @@
 
 Scripts to train your own single and dual agent RNN can be found in the **Code** folder. Saved trained models can be found in the **Models** folder. Code to visualize the internal representations and re-make the plots from the paper can be found in the **Plotting** folder. 
 
-Any questions/comments can be sent to will.redman@jhuapl.edu. 
+Feel free to reach out with any comments/questions to will.redman@jhuapl.edu. 
  
