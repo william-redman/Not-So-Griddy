@@ -9,3 +9,4 @@ Code to visualize the internal representations and re-make the plots from the pa
 
 Feel free to reach out with any comments/questions to will.redman@jhuapl.edu. 
  
+<img src="https://github.com/william-redman/Not-So-Griddy/blob/main/different_functional_classes.jpg" alt="Alt Text" width="600" height="608">
